@@ -27,6 +27,7 @@ namespace LCD_I2C
     public sealed partial class MainPage : Page
     {
         // slave address is 0x27 on a funduino I2C LCD
+        // yours may defer
         private I2C_LCD LCD = new I2C_LCD(0x27, 16, 2);
 
         public MainPage()

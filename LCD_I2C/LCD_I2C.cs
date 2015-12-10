@@ -11,7 +11,7 @@
   * for any purpose.
   *
   * Author: Daniel Vong Wei Liang (dvwl@hotmail.com)
-  * Last modified: 8 September 2015
+  * Last modified: 10 December 2015
   *
   * Credits: WIndows IoT for their I2C I/O Port Expander example 
   * (https://www.hackster.io/4803/i2c-port-expander-sample)
