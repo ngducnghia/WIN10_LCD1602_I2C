@@ -14,4 +14,5 @@ LCD           Raspberry Pi 2
 |  SCL | ---- | Pin #5 |
 -------       ----------
 
-https://github.com/ngducnghia/WIN10_LCD1602_I2C/blob/master/images/I2CLED1602.PNG
+![I2C Contrast](/images/I2CLED1602.PNG)
+
